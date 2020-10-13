@@ -70,5 +70,6 @@
     <Build Include="dbo\Tables\Carsnew.sql" />
     <Build Include="dbo\Tables\Cars.sql" />
     <Build Include="dbo\Stored Procedures\SP_test.sql" />
+    <Build Include="dbo\Tables\testing.sql" />
   </ItemGroup>
 </Project>
